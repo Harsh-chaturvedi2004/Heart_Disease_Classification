@@ -1,4 +1,4 @@
-# Heart_Disease_Classification
+# Heart_Disease_Prediction
 ## 1. Problem Definition
 In our case, the problem we will be exploring is **binary classification** (a sample can only be one of two things). 
 
